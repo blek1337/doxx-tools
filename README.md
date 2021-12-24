@@ -11,6 +11,6 @@ python trace.py
 ```
 <li> Contact me: <a href="mailto:n4xsec@gmail.com">n4xsec@gmail.com</a>
 
-- [x] \(Optional) Termux
+- [x] \(python version: 3.10.1) Termux
 - [x] Android
 - [ ] Windows etc
